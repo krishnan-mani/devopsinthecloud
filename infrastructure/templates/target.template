@@ -23,7 +23,7 @@
     },
 
 	"ApplicationName" : {
-	  "Description" : "CNAME for the application",
+	  "Description" : "CNAME for my application",
 	  "Type" : "String",
 	  "Default" : "target"
 	},
